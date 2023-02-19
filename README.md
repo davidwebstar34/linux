@@ -1,4 +1,4 @@
-# Rust for Linux
+# Rust for Linux (Testing some rust)
 
 The goal of this project is to add support for the Rust language to the Linux kernel. This repository contains the work that will be eventually submitted for review to the LKML.
 
